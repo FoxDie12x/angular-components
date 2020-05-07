@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularComponents
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-components
+Contains examples on how to implement small UI-components in Angular.
+>>>>>>> ea8600f21deef0ab88e5140726d1519305985f1d
